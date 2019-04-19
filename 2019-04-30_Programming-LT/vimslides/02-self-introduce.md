@@ -7,10 +7,12 @@
 
 ===========================================================================================================================================================
 
-# 名前
-
-  - `Cj.BC_SD`
-  - a.k.a `Cj-bc`
+# Socials
+|         |                             |
+|:-------:|:---------------------------:|
+| Github  | `@Cj-bc`                    |
+| Twitter | `@Cj_bc_sd`                 |
+| Qiita   | `@Cj-bc`                    |
 
 # Top project
   - Yozakura Project
@@ -28,18 +30,13 @@
   - Elm
   - English
 
-# Interest in
+# Like
   - CLI
   - MR
   - Music
   - Drawing
 
-# Socials
-|         |                             |
-|:-------:|:---------------------------:|
-| Github  | `@Cj-bc`                    |
-| Twitter | `@Cj_bc_sd`                 |
-| Qiita   | `@Cj-bc`                    |
+
 
 
 
