@@ -46,4 +46,4 @@
 
 
 
-vim: syntax=2019_04_30_lt_04
+vim: syntax=2019_04_30_lt_04:nocursorline
