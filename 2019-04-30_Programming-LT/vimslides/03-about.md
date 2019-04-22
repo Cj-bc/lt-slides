@@ -11,7 +11,7 @@
 
   - 種類: Minecraft Mod
   - 使用言語: Python
-  - 前提mod: [arpruss/raspberryjammod](https://github.com/arpruss/raspberryjammod)
+  - 前提mod: [arpruss/raspberryjammod](https://github.com/arpruss/raspberryjammod)  -- PythonからMinecraftを弄れるようにするためのMod
 
 # 詳細
 
@@ -20,12 +20,21 @@
   - マイクラの中からCLIコマンドを使用できる
   - ディレクトリ構造を3Dで表示
   - 実験的なプロジェクト
+  - つまる所暇人の遊び
 
 ## mcUI is not
   - UI framework (紛らわしすぎる)
   - 役に立つ何か
 
 
+# 目的
+  - ディレクトリ構造の3D化
+  - CLIでもGUI(二次元)でもない、.新しいUIの模索.
+
+
+# 今後
+  - 3Dレンタリングを自作、2Dの画面を介せずに直で3D空間を置きたい
+  - 各ファイル毎に3Dモデルを設定できるようにする
 
 
 
@@ -36,12 +45,4 @@
 
 
 
-
-
-
-
-
-
-
-
-vim: nospell:nocursorline
+vim: nospell:nocursorline:syntax=2019_04_30_lt_03

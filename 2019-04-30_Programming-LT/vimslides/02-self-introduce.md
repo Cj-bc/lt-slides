@@ -21,7 +21,7 @@
 # 言語
 
 ## Good
-  - Shell script (bash)
+  - Shell script(bash)
   - 日本語
 
 ## Learning
@@ -30,11 +30,18 @@
   - Elm
   - English
 
-# Like
+# 趣味・興味
   - CLI
-  - MR
   - Music
-  - Drawing
+  - お絵かき
+
+  - xR(消費者サイド)
+  - デレマス(美玲・インディヴィP)
+  - FPS(krunker.io, モダコンVS)
+  - 猫
+
+
+
 
 
 
