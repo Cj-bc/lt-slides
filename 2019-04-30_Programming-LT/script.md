@@ -39,4 +39,4 @@ UIフレームワーク等ではないのに`mcUI`という紛らわしいネー
 
 Minecraftは前提ModのForgeとraspberryJamModのみが入った状態です。
 この状態で`mcUI.py`を叩いてあげると、mcUIが起動します。
-現在使用できるのは`cd`、`pwd`、`ls`、`cat`、`exit`とmcUI用のコマンドの`pane`とかなり限られているのですが、ちょっと楽しいです。
+現在使用できるのは`cd`、`pwd`、`ls`、`cat`、`exit`とmcUI用のコマンドの`pane`とかなり限られているのですが、楽しいです。
